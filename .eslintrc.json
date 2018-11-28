@@ -4,6 +4,7 @@
     "browser": true
   },
   "rules": {
-    "react/jsx-one-expression-per-line": "single-child"
+    "react/jsx-one-expression-per-line": "single-child",
+    "no-console": "off"
   }
 }
